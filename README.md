@@ -38,3 +38,8 @@ cd projet
  gcc -o nom_fichier nom_fichier.c
 // dans un terminal unique
 ```
+## 3. Execution 
+```bash
+  ./nom_fichier.c
+// dans un terminal uniqu
+```
