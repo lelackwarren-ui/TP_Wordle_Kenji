@@ -1,4 +1,4 @@
-## TP_Wordle_Kenji
+# TP_Wordle_Kenji
 # Projet Wordle en C
 
 Ce projet est une implémentation simplifiée du jeu **Wordle** en langage C.  
